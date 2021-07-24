@@ -44,6 +44,8 @@ ul {
 h1 {
   margin-left: 330px;
 }
-span {
-  color: blue;
+a {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: sans-serif;
 }
